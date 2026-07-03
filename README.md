@@ -16,4 +16,3 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 **Let's connect** — open to collaborations on full-stack and AI-driven projects.
 
-![GitHub Snake](https://raw.githubusercontent.com/Akash8585/Akash8585/output/snake.svg)
